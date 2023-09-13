@@ -12,3 +12,4 @@ for (letters = 'a'; letters <= 'z'; letters++)
 _putchar(letters);
 _putchar('\n');
 }
+}
